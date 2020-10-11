@@ -38,7 +38,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 1. [Programming Assignment 1](assignments/assignment1.ipynb) ([Solutions](assignments/assignment1_solutions.ipynb))
 2. [Programming Assignment 2](assignments/assignment2.ipynb) ([Solutions](assignments/assignment2_solutions.ipynb))
 3. [Programming Assignment 3](assignments/assignment3.ipynb) ([Solutions](assignments/assignment3_solutions.ipynb))
-4. [Programming Assignment 4](assignments/assignment4.ipynb)
+4. [Programming Assignment 4](assignments/assignment4.ipynb) ([Solutions](assignments/assignment4_solutions.ipynb))
 
 ### Quiz Solutions
 
@@ -46,4 +46,5 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 2. [Quiz 2 Solutions](assignments/quizzes/quiz2_solutions.pdf)
 3. [Quiz 3](assignments/quizzes/quiz3.pdf) ([Solutions](assignments/quizzes/quiz3_solutions.pdf))
 4. [Quiz 4](assignments/quizzes/quiz4.pdf) ([Solutions](assignments/quizzes/quiz4_solutions.pdf))
-5. [Quiz 5](assignments/quizzes/quiz5.pdf)
+5. [Quiz 5](assignments/quizzes/quiz5.pdf) ([Solutions](assignments/quizzes/quiz5_solutions.pdf))
+
