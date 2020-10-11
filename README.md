@@ -15,6 +15,11 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 7. [Day 7](lecture_slides/day7.pdf)([Annotated](lecture_slides/day7_annotated.pdf))
 8. [Day 8](lecture_slides/day8.pdf)([Annotated](lecture_slides/day8_annotated.pdf))
 
+### Seminar Slides
+1. [An Introduction to Quantum Mechanics for Quantum Computing](lecture_slides/seminar.pdf)
+2. [Physics of the Qubit](lecture_slides/seminar2.pdf)
+
+
 [Example Problems](lecture_slides/example_problems.pdf)
 
 ### Programming Notebooks
