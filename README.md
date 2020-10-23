@@ -19,6 +19,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 1. [An Introduction to Quantum Mechanics for Quantum Computing](lecture_slides/seminar.pdf)
 2. [Physics of the Qubit](lecture_slides/seminar2.pdf)
 
+[supplementary_notes](lecture_slides/supplementary_notes.pdf)
 
 [Example Problems](lecture_slides/example_problems.pdf)
 
