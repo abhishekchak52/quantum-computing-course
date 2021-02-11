@@ -2,7 +2,7 @@
 Course Material for the online short course 'Practical Quantum Computing using Qiskit and IBMQ'.
 
 Run the course notebooks in an interactive environment in your browser using the Binder link:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deadbeatfour/quantum-computing-course/HEAD/?urlpath=lab)
+[![Binder](https://mybinder.org/v2/gh/deadbeatfour/qc_env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fdeadbeatfour%252Fquantum-computing-course%26urlpath%3Dlab%252Ftree%252Fquantum-computing-course%252F%26branch%3Dmaster)
 
 Recordings of the lectures are available [here](https://www.youtube.com/playlist?list=PLyEHBEYaB52XCMH9mMHo5MAzGcZkcdVGB)
 
